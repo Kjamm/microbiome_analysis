@@ -1,0 +1,12 @@
+biopython
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+streamlit
+networkx
+statsmodels
+kaleido
