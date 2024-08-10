@@ -3,9 +3,9 @@ from setuptools import setup, find_packages
 setup(
     name="microbiome_analysis",
     version="0.1.0",
-    description="A Python library for microbiome data analysis",
-    author="Your Name",
-    author_email="your.email@example.com",
+    description="A comprehensive Python library for microbiome data analysis",
+    author="Jaemin Kim",
+    author_email="jaemin52577441@gmail.com",
     packages=find_packages(),
     install_requires=[
         "biopython",
@@ -19,6 +19,7 @@ setup(
         "streamlit",
         "networkx",
         "statsmodels",
+        "kaleido"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
