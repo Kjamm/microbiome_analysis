@@ -9,3 +9,4 @@ plotly
 streamlit
 networkx
 statsmodels
+kaleido
