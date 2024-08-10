@@ -1,5 +1,7 @@
 # Microbiome Analysis
 
+This library was created out of the personal curiosity of Jaemin Kim of Chungnam National University.
+
 A comprehensive Python library for microbiome data analysis, providing functionalities for data processing, quality control, normalization, diversity analysis, visualization, network analysis, and statistical comparisons.
 
 ## Features
