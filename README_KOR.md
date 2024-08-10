@@ -1,4 +1,5 @@
 # Microbiome Analysis
+[ENGLISH](https://github.com/Kjamm/microbiome_analysis) [한국어](https://github.com/Kjamm/microbiome_analysis/blob/main/README_KOR.md)
 
 이 라이브러리는 충남대학교 김재민의 개인적인 호기심으로 만들어졌습니다.
 
