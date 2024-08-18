@@ -192,7 +192,7 @@ dashboard.create_dashboard(data, diversity_df, pca_coords, labels)
 ```
 
 ## 기여
-기여는 언제나 환영입니다! 버그나 기능 요청을 위해 Pull Request를 제출하거나 Issue를 열어주세요.
+기여는 언제나 환영입니다! 버그나 기능 요청을 위해 Pr을 제출하거나 Issue를 열어주세요.
 
 ## 라이선스
 이 프로젝트는 MIT 라이선스를 따릅니다.
