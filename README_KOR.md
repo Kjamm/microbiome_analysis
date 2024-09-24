@@ -1,6 +1,8 @@
 # Microbiome Analysis
 [ENGLISH](https://github.com/Kjamm/microbiome_analysis) [한국어](https://github.com/Kjamm/microbiome_analysis/blob/main/README_KOR.md)
 
+![image](https://github.com/user-attachments/assets/16626a5d-413d-48ec-bf53-c55698a14619)
+
 이 라이브러리는 충남대학교 김재민의 개인적인 호기심으로 만들어졌습니다.
 
 마이크로바이옴 데이터 분석을 위한 종합적인 Python 라이브러리로, 데이터 처리, Quality Control, 정규화, 다양성 분석, 시각화, 네트워크 분석 및 통계 비교 기능을 제공합니다.
