@@ -1,6 +1,8 @@
 # Microbiome Analysis
 [ENGLISH](https://github.com/Kjamm/microbiome_analysis) [한국어](https://github.com/Kjamm/microbiome_analysis/blob/main/README_KOR.md)
 
+![image](https://github.com/user-attachments/assets/16626a5d-413d-48ec-bf53-c55698a14619)
+
 This library was created out of the personal curiosity of Jaemin Kim of Chungnam National University.
 
 A comprehensive Python library for microbiome data analysis, providing functionalities for data processing, quality control, normalization, diversity analysis, visualization, network analysis, and statistical comparisons.
